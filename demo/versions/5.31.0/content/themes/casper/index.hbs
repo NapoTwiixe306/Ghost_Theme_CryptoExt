@@ -26,11 +26,11 @@ into the {body} of the default.hbs template --}}
                 {{#if @site.logo}}
                     <img class="site-logo" src="{{@site.logo}}" alt="{{@site.title}}">
                 {{else}}
-                    <h1 class="site-title">{{@site.title}}</h1>
+                    <h1 class="site-title" style="color: rgb(173, 173, 173);">{{@site.title}}</h1>
                 {{/if}}
             {{/match}}
             {{#if @site.description}}
-                <p class="site-description">{{@site.description}}</p>
+                <p class="site-description" style="color: rgb(173, 173, 173);">{{@site.description}}</p>
             {{/if}}
         </div>
     {{/match}}
