@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NapoTwiixe306/Ghost_Theme_CryptoExt.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NapoTwiixe306/Ghost_Theme_CryptoExt/issues"
+  },
+  "homepage": "https://github.com/NapoTwiixe306/Ghost_Theme_CryptoExt#readme"
 }
